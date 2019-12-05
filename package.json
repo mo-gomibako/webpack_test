@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "./node_modules/.bin/webpack --mode development",
-    "start": "./node_modules/.bin/webpack-dev-server --open"
+    "start": "./node_modules/.bin/webpack-dev-server --open --mode development"
   },
   "name": "webpack_test",
   "version": "1.0.0",
